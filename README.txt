@@ -1,4 +1,4 @@
-1) This application is developed in TDD way, providing unit test for each unit of class
+1) This application is developed in TDD way, providing unit test for each unit of class, using mockito and junit.
 
 2) Integration test is provided that loads the real addressbook file, as well as the main application.
 

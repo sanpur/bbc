@@ -4,9 +4,9 @@ import org.junit.Test;
 
 import java.util.List;
 
-import static org.hamcrest.CoreMatchers.containsString;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertThat;
+import static org.hamcrest.Matchers.containsString;;
 
 public class GumtreeFileLoaderTest {
 

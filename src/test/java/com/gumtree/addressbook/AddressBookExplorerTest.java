@@ -5,8 +5,6 @@ import com.gumtree.addressbook.utils.GumtreeFileLoader;
 import org.junit.Before;
 import org.junit.Test;
 
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
 import java.util.*;
 
 import static org.junit.Assert.assertEquals;
